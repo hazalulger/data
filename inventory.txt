@@ -1,0 +1,10 @@
+inventoryID, inventoryName
+218, karabatý
+253, yenice
+718, güneþli
+
+
+925, gebze
+184, gaziantep
+954, karþýyaka
+100
